@@ -1,0 +1,4 @@
+customtkinter
+pandas
+openpyxl
+# run pip install -r requirements.txt
