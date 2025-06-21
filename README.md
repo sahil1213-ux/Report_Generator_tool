@@ -52,11 +52,15 @@ Report-Generator-Bot/
 
 ## 🚀 How to Use
 ### Generate Power BI Report
-python generate_powerbi_report.py
+ ```bash
+ python generate_powerbi_report.py
+```
+
 
 ### Generate Excel Report
-python generate_excel_report.py
-
+```bash
+- python generate_excel_report.py
+```
 ### Prerequisites
 - Python 3.8 or higher
 - Power BI Desktop installed (for Power BI automation)
