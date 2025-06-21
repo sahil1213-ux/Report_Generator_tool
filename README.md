@@ -1,5 +1,9 @@
 # 🧠 Report-Generator-Bot
 
+# Problem statement
+A growing analytics team at InsightMatrix Corp struggled with repetitive manual reporting for sales, finance, and operations teams across multiple departments. Non-technical users faced difficulties generating consistent reports using Power BI and Excel, leading to delays and inconsistencies in periodic reporting.
+
+# Solution
 **Report-Generator-Bot** is a Python-based automation tool that streamlines the creation of both **Power BI** and **Excel reports**. It dynamically binds user-provided CSV datasets with pre-designed `.pbit` (Power BI template) and `.xlsx` (Excel template) files, enabling quick and consistent report generation without manual rework.
 
 This tool is ideal for automating business intelligence workflows and generating recurring reports across multiple departments and industries.
